@@ -3,6 +3,8 @@ All materials for the Multimodal Communication Modelling project in June, 2024 a
 
 **Contributors**: Kira Miller, Lorenz Hornung and Yunchong Huang.
 
+**Last Update**: July 5, 2024 (still under construction)
+
 ## Participatory Dominance - Yunchong Huang
 
 - The original transcripts are in "linguistic data processing" folder;
