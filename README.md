@@ -3,7 +3,7 @@ All materials for the Multimodal Communication Modelling project in June, 2024 a
 
 **Contributors**: Kira Miller, Lorenz Hornung and Yunchong Huang.
 
-## Participatory Dominance
+## Participatory Dominance - Yunchong Huang
 
 - The original transcripts are in "linguistic data processing" folder;
 - My codes grasp "interruptions" and "unsuccessful overlaps" and output them into _interruptions.csv files and _uns_overlap.csv files. They are stored in "interruption" and "uns-overlaps" folders respectively;
