@@ -14,4 +14,4 @@ The final report of the project: [Final Report](Final%20Report%20-%20Multimodal%
 -  Manual labeling for uns_overlaps.csv files and rule out some false ones, those not ruled out are of "passive" label, ruled out ones are with "ruled out" label. They are stored in the "[uns-overlaps](Yunchong%20Huang%20-%20Participatory%20Dominance/uns_overlaps)" folder for further processing;
 -  Based on manual labeled uns_overlaps files I further adjusted "uns_ov" values of ruled out ones in phase_1 files to 0 output processed files to the "[phase_2](Yunchong%20Huang%20-%20Participatory%20Dominance/phase_2)" folder, these are final files for visualization;
 -  Visualization graphs are stored in "[visualization](Yunchong%20Huang%20-%20Participatory%20Dominance/visualization)" folder;
--  The modelling codes used are stored in this [notebook](Yunchong%20Huang%20-%20Participatory%20Dominance/participatory%20dom%20(final).ipynb)
+-  The modelling codes used are stored in this [notebook](Yunchong%20Huang%20-%20Participatory%20Dominance/participatory%20dom%20(final).ipynb).
