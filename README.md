@@ -1,5 +1,6 @@
 # The full collection of project materials
 All materials for the "Multiscale Dynamics of Multimodal Communication" project in June, 2024 are uploaded here.
+The final report of the project: [Final Report](Final%20Report%20-%20Multimodal%20Communication%20Modeling.pdf)
 
 **Contributors**: Kira Miller, Lorenz Hornung and Yunchong Huang.
 
