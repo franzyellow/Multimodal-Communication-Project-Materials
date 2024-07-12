@@ -4,7 +4,7 @@ The final report of the project: [Final Report](Final%20Report%20-%20Multimodal%
 
 **Contributors**: Kira Miller, Lorenz Hornung and Yunchong Huang.
 
-**Last Update**: July 5, 2024 (still under construction)
+**Last Update**: July 12, 2024 (still under construction)
 
 ## Participatory Dominance - Yunchong Huang
 
