@@ -20,5 +20,5 @@ The final report of the project: [Final Report](Final%20Report%20-%20Multimodal%
 
 - The original transcripts with corrected timestamps based on the videos can be found in "[Transcripts with Corrected Data](Kira%20Miller%20-%20Quantitative%20Dominance/Transcripts%20with%20Corrected%20Data)" folder;
 - The heatmaps for each group can be found in "[Heatmaps](Kira%20Miller%20-%20Quantitative%20Dominance/Heatmaps)" folder;
-- The spreadsheet that was used to compile results can be found [here](Kira%20Miller%20-%20Quantitative%20Dominance/Turn%20Taking%20Results%20-%20Success%20Results.csv)
-- The codes used for all quantitative data extraction can be found [here](Kira%20Miller%20-%20Quantitative%20Dominance/Turn_Number_and_Percentage.ipynb)
+- The spreadsheet that was used to compile results can be found [here](Kira%20Miller%20-%20Quantitative%20Dominance/Turn%20Taking%20Results%20-%20Success%20Results.csv);
+- The codes used for all quantitative data extraction can be found [here](Kira%20Miller%20-%20Quantitative%20Dominance/Turn_Number_and_Percentage.ipynb).
