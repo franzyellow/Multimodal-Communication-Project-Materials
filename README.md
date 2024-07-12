@@ -15,3 +15,10 @@ The final report of the project: [Final Report](Final%20Report%20-%20Multimodal%
 -  Based on manual labeled uns_overlaps files I further adjusted "uns_ov" values of ruled out ones in phase_1 files to 0 output processed files to the "[phase_2](Yunchong%20Huang%20-%20Participatory%20Dominance/phase_2)" folder, these are final files for visualization;
 -  Visualization graphs are stored in "[visualization](Yunchong%20Huang%20-%20Participatory%20Dominance/visualization)" folder;
 -  The modelling codes used are stored in this [notebook](Yunchong%20Huang%20-%20Participatory%20Dominance/participatory%20dom%20(final).ipynb).
+
+## Quantitative Dominance - Kira Miller
+
+- The original transcripts with corrected timestamps based on the videos can be found in "[Transcripts with Corrected Data](Kira%20Miller%20-%20Quantitative%20Dominance/Transcripts%20with%20Corrected%20Data)" folder;
+- The heatmaps for each group can be found in "[Heatmaps](Kira%20Miller%20-%20Quantitative%20Dominance/Heatmaps)" folder;
+- The spreadsheet that was used to compile results can be found [here](Kira%20Miller%20-%20Quantitative%20Dominance/Turn%20Taking%20Results%20-%20Success%20Results.csv)
+- The codes used for all quantitative data extraction can be found [here](Kira%20Miller%20-%20Quantitative%20Dominance/Turn_Number_and_Percentage.ipynb)
