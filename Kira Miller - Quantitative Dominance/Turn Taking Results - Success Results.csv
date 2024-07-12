@@ -1,0 +1,16 @@
+Group,Time To Complete,Task 2 Attempt 1,Heat Map Qualitative,Dominance 1,Dominance 2,Dominance 3,Percentage 1 ,Percentage 2,Percentage 3,Range Dominance,Range Percentage,Interruptions 1,Interruptions 2,Interruptions 3
+9,470.70,"Fail, Fail","initial speaking from 1, 3 then largely dominant, very little from 2",2.2076048,0.676873784,0.4659001371,30.46%,18.46%,51.08%,1.741704663,32.62%,9,4,7
+4,657.34,"Fail, Fail","Primarily 3 dominant, especially at the end,1 and 2 largely even",0.5998834895,0.6505020782,0.2725076273,24.60%,30.40%,45.00%,0.3779944508,20.40%,9,14,7
+1,682.90,Success,"Consistent dominance from 1, dominance from 2 at very end",2.861629844,1.177936196,2.250385568,56.68%,26.03%,17.30%,1.683693649,39.38%,6,9,5
+2,741.69,"Fail, Success","1 and 2 somewhat alternating, final contribution from 3",0.9206142085,0.747198333,1.951506234,46.14%,39.16%,14.70%,1.204307901,31.44%,6,5,3
+6,763.52,"Fail, Success",Largely even at the end but 2 overally talking the most,3.303052771,1.529558941,1.678998607,23.44%,45.22%,31.34%,1.77349383,21.77%,9,10,9
+10,836.84,Success,"2 and 3 largelt dominant, fairly consistent across time. ",0.7300434835,1.635045764,1.125192784,20.85%,38.71%,40.43%,0.9050022805,19.58%,9,31,30
+5,848.93,Success,"Participant 1 primarily dominant with 1 at the beginning, then 3 primarily dominant at the end with some contributions from 2",1.532380725,1.72295145,3.278882097,41.69%,27.54%,30.78%,1.746501371,14.15%,21,13,20
+8,"1,246.08","Fail, Success","1 and 3 taking most of the speaking, 2 speaking more towards the beginning",2.460258699,1.002124823,2.786610254,34.42%,24.51%,41.07%,1.784485431,16.55%,12,11,11
+3,"1,380.62","Fail, Fail","Largely even, with 2 contributing the least despite final involvement",0.2876372324,0.07911511761,0.606549235,39.52%,20.64%,39.84%,0.5274341174,19.20%,11,6,15
+7,"1,997.00","Fail, Success","No large bands of dominance, but 3 overall speaking the most",0.731493013,2.311919548,2.382244097,20.67%,31.97%,47.36%,1.650751084,26.69%,35,45,50
+,,,,,,,,,,,,,,
+"Observations:
+- The fastest group had one of the largest ranges of conversational dominance, but the second fastest had the smallest
+- However, the fastest group with no incorrect guesses had both the largest range in conversational dominance and in overall percentage
+- In terms of overall percentage, the faster groups largely had one clear ""leader"" as opposed to slower groups, which were more even between at least two participants.",,,,,,,,,,,,,,
